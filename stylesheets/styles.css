@@ -9,6 +9,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   color:#222;
   margin:0 0 20px;
+  font-size:15px;
 }
 
 p, ul, ol, table, pre, dl {
@@ -21,7 +22,6 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size:18px;
   padding-top:9px;
   border-top:2px solid #222;
   text-transform:uppercase;
