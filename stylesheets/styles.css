@@ -23,7 +23,9 @@ h1, h2, h3 {
 h1 {
   font-size:18px;
   padding-top:9px;
-  border-top:2px solid #494949;
+  border-top:2px solid #222;
+  text-transform:uppercase;
+  letter-spacing:.1em;
 }
 
 h2 {
@@ -31,18 +33,21 @@ h2 {
 }
 
 h3, h4, h5, h6 {
-  color:#494949;
-  border-top:1px solid #494949;
-  padding-top:10px;
+  color:#222;
+  border-top:2px solid #222;
+  padding-top:9px;
+  text-transform:uppercase;
+  letter-spacing:.1em;
 }
 
 a {
-  color:#39c;
+  color:#0033cc;
   text-decoration:none;
 }
 
 a:hover {
-  color:#069;
+  color:#0033cc;
+  text-decoration:underline;
 }
 
 a small {
